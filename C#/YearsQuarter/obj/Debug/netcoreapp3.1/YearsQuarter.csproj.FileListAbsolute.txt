@@ -1,0 +1,12 @@
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\bin\Debug\netcoreapp3.1\YearsQuarter.exe
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\bin\Debug\netcoreapp3.1\YearsQuarter.deps.json
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\bin\Debug\netcoreapp3.1\YearsQuarter.runtimeconfig.json
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\bin\Debug\netcoreapp3.1\YearsQuarter.runtimeconfig.dev.json
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\bin\Debug\netcoreapp3.1\YearsQuarter.dll
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\bin\Debug\netcoreapp3.1\YearsQuarter.pdb
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\obj\Debug\netcoreapp3.1\YearsQuarter.AssemblyInfoInputs.cache
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\obj\Debug\netcoreapp3.1\YearsQuarter.AssemblyInfo.cs
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\obj\Debug\netcoreapp3.1\YearsQuarter.csproj.CoreCompileInputs.cache
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\obj\Debug\netcoreapp3.1\YearsQuarter.dll
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\obj\Debug\netcoreapp3.1\YearsQuarter.pdb
+D:\CodingPractice\CodingPractice\C#\YearsQuarter\obj\Debug\netcoreapp3.1\YearsQuarter.genruntimeconfig.cache
