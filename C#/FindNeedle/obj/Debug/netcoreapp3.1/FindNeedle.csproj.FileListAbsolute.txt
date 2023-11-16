@@ -1,0 +1,13 @@
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.csproj.AssemblyReference.cache
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.AssemblyInfoInputs.cache
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.AssemblyInfo.cs
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.csproj.CoreCompileInputs.cache
+D:\CodingPractice\CodingPractice\C#\FindNeedle\bin\Debug\netcoreapp3.1\FindNeedle.exe
+D:\CodingPractice\CodingPractice\C#\FindNeedle\bin\Debug\netcoreapp3.1\FindNeedle.deps.json
+D:\CodingPractice\CodingPractice\C#\FindNeedle\bin\Debug\netcoreapp3.1\FindNeedle.runtimeconfig.json
+D:\CodingPractice\CodingPractice\C#\FindNeedle\bin\Debug\netcoreapp3.1\FindNeedle.runtimeconfig.dev.json
+D:\CodingPractice\CodingPractice\C#\FindNeedle\bin\Debug\netcoreapp3.1\FindNeedle.dll
+D:\CodingPractice\CodingPractice\C#\FindNeedle\bin\Debug\netcoreapp3.1\FindNeedle.pdb
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.dll
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.pdb
+D:\CodingPractice\CodingPractice\C#\FindNeedle\obj\Debug\netcoreapp3.1\FindNeedle.genruntimeconfig.cache
